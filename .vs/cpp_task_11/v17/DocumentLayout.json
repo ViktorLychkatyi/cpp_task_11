@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Viktor\\Desktop\\cpp_task_11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B09BE52-78D9-4262-88EA-8F9B2906A814}|cpp_task_11.vcxproj|C:\\Users\\Viktor\\Desktop\\cpp_task_11\\cpp_task_11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7B09BE52-78D9-4262-88EA-8F9B2906A814}|cpp_task_11.vcxproj|solutionrelative:cpp_task_11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "cpp_task_11.cpp",
+              "DocumentMoniker": "C:\\Users\\Viktor\\Desktop\\cpp_task_11\\cpp_task_11.cpp",
+              "RelativeDocumentMoniker": "cpp_task_11.cpp",
+              "ToolTip": "C:\\Users\\Viktor\\Desktop\\cpp_task_11\\cpp_task_11.cpp",
+              "RelativeToolTip": "cpp_task_11.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-03T14:06:44.431Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
